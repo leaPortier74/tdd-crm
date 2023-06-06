@@ -1,0 +1,16 @@
+Explication test de charge, choix techno, les résultats
+
+- Cypress : 
+    - Déjà utiliser
+    - Vue en cours 
+    - Gain de temps
+
+- Locust :
+    - Facile à utiliser
+    - 
+
+- vue.js :
+    - Déja utiliser
+    - Facile
+    - Vue en cours
+
