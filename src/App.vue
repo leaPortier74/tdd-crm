@@ -1,23 +1,25 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="./assets/logo.png" />
     <HelloWorld msg="Welcome to Your Vue.js App" />
     <div>
       <h2 class="text-2xl font-bold text-blue-800">
-        how to start your project with tailwind css & Vue 3
+        Users list
       </h2>  
     </div>
+    <CardUser />
   </div>
 </template>
 
 <script>
 import '@/assets/tailwind.css';
-import HelloWorld from './components/HelloWorld.vue'
+import HelloWorld from './components/HelloWorld.vue';
+import CardUser from './components/Card.vue';
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    HelloWorld, 
+    CardUser
   }
 }
 </script>
