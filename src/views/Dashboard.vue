@@ -1,9 +1,5 @@
 <template>
   <div class="dashboard">
-  <div id="nav">
-    <router-link to="/">Home</router-link> |
-    <router-link to="/dashboard">Dashboard</router-link>
-  </div>
   <router-view/>
     <card></card>
   </div>
