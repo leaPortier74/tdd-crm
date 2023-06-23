@@ -6,7 +6,8 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "test:unit": "vue-cli-service test:unit",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "test": "mocha tests/*.spec.js"
   },
   "dependencies": {
     "autoprefixer": "^10",
@@ -62,5 +63,6 @@
     "last 2 versions",
     "not dead",
     "not ie 11"
-  ]
+  ],
+  "type": "module"
 }
