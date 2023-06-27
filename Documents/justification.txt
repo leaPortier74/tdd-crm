@@ -1,4 +1,4 @@
-Explication test de charge, choix techno, les résultats
+Explication test de charge, choix techno
 
 - Cypress : 
     - Déjà utiliser
@@ -7,10 +7,13 @@ Explication test de charge, choix techno, les résultats
 
 - Locust :
     - Facile à utiliser
-    - 
+    - celui que l'on préfère (comparer à jmeter)
 
 - vue.js :
     - Déja utiliser
     - Facile
     - Vue en cours
 
+- test de charge : 
+    - on a commencer par tester avec un test basic
+    - on a augmenter au fure et à mesure le nombre d'utilisateur
