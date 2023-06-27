@@ -18,7 +18,7 @@ npm install
 npm run serve
 ```
 
-## Réponse a aux questions : 
+## Réponse aux questions : 
 
 Il y a également un petit document "justification.txt" dans le dossier Document.
 
